@@ -69,7 +69,7 @@ final class BoardFoot {
         // Outputs the board height
         System.out.println();
         System.out.println("The height that makes your dimensions equal to one"
-        + " Board Foot " + calcHeight + " inches");
+        + " Board Foot is " + calcHeight + " inches");
         System.out.println();
         System.out.println("Done");
 
